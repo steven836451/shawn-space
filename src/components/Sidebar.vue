@@ -172,8 +172,9 @@ li {
       content: "|";
       color: black;
       position: absolute;
-      left: -15px;
-      top: 5px;
+      display: inline-block;
+      left: -4px;
+      top: 6px;
     }
   }
 }

@@ -139,10 +139,11 @@ export default {
   }
   button {
     position: absolute;
-    width: 100px;
+    width: 30%;
     background-color: #adb5bd;
     border: none;
     right: 0;
+    top: 0;
     height: 36px;
     border-radius: 0 0.3rem 0.3rem 0;
     font-size: 15px;
