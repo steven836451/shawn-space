@@ -1,5 +1,9 @@
 # shawn-space
 https://steven836451.github.io/shawn-space/
+![alt 文字](https://upload.cc/i1/2020/04/01/Aqagm7.png "預覽")
+![alt 文字](https://upload.cc/i1/2020/04/01/L2K3P0.png "預覽")
+![alt 文字](https://upload.cc/i1/2020/04/01/infdAx.png "預覽")
+![alt 文字](https://upload.cc/i1/2020/04/01/7iDGsa.png "預覽")
 
 > A Vue.js project
 
