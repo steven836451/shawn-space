@@ -5,7 +5,19 @@ https://steven836451.github.io/shawn-space/
 ![alt 文字](https://upload.cc/i1/2020/04/01/infdAx.png "預覽")
 ![alt 文字](https://upload.cc/i1/2020/04/01/7iDGsa.png "預覽")
 
-> A Vue.js project
+### 技能包含
+
+1. 使用Vue Cli
+2. 使用Vuex狀態管理
+3. RWD響應式網頁
+4. 使用Bootstrap
+5. 前後台分離式電商網站(此為前台)
+6. Axios應用
+
+### 未來展望
+
+1. 加強自身ES6語法使用
+2. 提升自我技能以及簡化程式碼
 
 ## Build Setup
 
